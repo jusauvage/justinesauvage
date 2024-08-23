@@ -2,155 +2,155 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:34741/justinesauvage/event/example/</loc>
+    <loc>http://localhost:1313/justinesauvage/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/event/</loc>
+    <loc>http://localhost:1313/justinesauvage/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/experience/</loc>
+    <loc>http://localhost:1313/justinesauvage/experience/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/projects/</loc>
+    <loc>http://localhost:1313/justinesauvage/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/post/get-started/</loc>
+    <loc>http://localhost:1313/justinesauvage/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/academic/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/post/</loc>
+    <loc>http://localhost:1313/justinesauvage/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/hugo-blox/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/markdown/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/hugo/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/project/pandas/</loc>
+    <loc>http://localhost:1313/justinesauvage/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/project/</loc>
+    <loc>http://localhost:1313/justinesauvage/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/project/pytorch/</loc>
+    <loc>http://localhost:1313/justinesauvage/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/project/scikit/</loc>
+    <loc>http://localhost:1313/justinesauvage/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/second-brain/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/wowchemy/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/post/second-brain/</loc>
+    <loc>http://localhost:1313/justinesauvage/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/post/data-visualization/</loc>
+    <loc>http://localhost:1313/justinesauvage/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/post/teach-courses/</loc>
+    <loc>http://localhost:1313/justinesauvage/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/hugo-blox-builder/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/javascript/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/teaching/js/</loc>
+    <loc>http://localhost:1313/justinesauvage/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/teaching/python/</loc>
+    <loc>http://localhost:1313/justinesauvage/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/python/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/teaching/</loc>
+    <loc>http://localhost:1313/justinesauvage/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/post/project-management/</loc>
+    <loc>http://localhost:1313/justinesauvage/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/</loc>
+    <loc>http://localhost:1313/justinesauvage/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/publication/preprint/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/publication_types/article/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/large-language-models/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/publication_types/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/publication/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/publication/journal-article/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/publication_types/article-journal/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/tags/source-themes/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/publication/conference-paper/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:34741/justinesauvage/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
