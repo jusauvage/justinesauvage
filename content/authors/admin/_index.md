@@ -44,77 +44,64 @@ interests:
   - TBD
 
 education:
-  - area: PhD 
+  - area: (ongoing) PhD 
     institution: Inria Paris
     date_start: 2022-01-09
     date_end: 2025-01-09
     summary: |
-      Thesis on TODO. Supervised by [Prof Joe Smith](https://example.com).
+      Thesis on Games and Logic for cryptographic protocols verification.
+      Supervised by Dabid Baelde (https://people.irisa.fr/David.Baelde/) and Adrien Koutsos (https://adrienkoutsos.fr).
     button:
       text: 'Thesis web page'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master degree, theoritical computer science
+    institution: Ecole Normale Superieure de Lyon
+    date_start: 2018-10-01
+    date_end: 2021-10-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Phd student
+    company_name: Inria Paris
+    company_url: 'https://www.inria.fr/fr/centre-inria-de-paris'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+    
+  - position: Interns
+    company_name: CISPA Helmholtz
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-02-01  #
+    date_end: 2022-07-31
+    summary: | 
+      Protocol proof in Tamarin
+
+  - position: Interns
+    company_name: Inria Paris
+    company_url: 'https://www.inria.fr/fr/centre-inria-de-paris'
+    company_logo: ''
+    date_start: 2021-10-01
+    date_end: 2022-01-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Generating axioms for cryptographic assumption in CCSA logic.
 
 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
+skills: 
+  - name: Numerical Skills
     items:
-      - name: Programation langage
-        description: ''
+      - name: Advanced
+        description: 'Python, OCaml, Linux, Squirrel'
         percent: 
         icon: 
-      - name: OS
-        description: 'Linux'
+      - name: Basic
+        description: 'Basic: Coq, Isabelle/HOL, C/C++, Tamarin'
         percent: 
-        icon: 
+        icon:  
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -142,34 +129,15 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+#  - title: Neural Networks and Deep Learning
+#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+#    date: '2023-11-25'
+#    awarder: Coursera
+#    icon: coursera
+#    summary: | is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Hello world ! I'm building my website, but still got no idea about what to wwrite here.
+Hello world ! I'm building my website, but still got no idea about what to write here.
