@@ -50,7 +50,7 @@ education:
     date_end: 2025-01-09
     summary: |
       Thesis on Games and Logic for cryptographic protocols verification.
-      Supervised by Dabid Baelde (https://people.irisa.fr/David.Baelde/) and Adrien Koutsos (https://adrienkoutsos.fr).
+      Directed by Bruno Blanchet. Supervised by Dabid Baelde (https://people.irisa.fr/David.Baelde/) and Adrien Koutsos (https://adrienkoutsos.fr).
     button:
       text: 'Thesis web page'
       url: 'https://theses.fr/s343813'
