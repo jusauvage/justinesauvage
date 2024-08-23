@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mrs
+title: Justine Sauvage
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -33,18 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'justine.sauvage@free.fr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/justine-sauvage-a05b35179/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-2574-2256
 
 interests:
   - Formal methods
@@ -52,14 +44,14 @@ interests:
   - TBD
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD 
+    institution: Inria Paris
+    date_start: 2022-01-09
+    date_end: 2025-01-09
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on TODO. Supervised by [Prof Joe Smith](https://example.com).
     button:
-      text: 'Read Thesis'
+      text: 'Thesis web page'
       url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -83,6 +75,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -107,47 +100,46 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+teaching:
+  - area: Mathèmatiques discrète
+  - area: TODO
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Programation langage
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 
+        icon: 
+      - name: OS
+        description: 'Linux'
+        percent: 
+        icon: 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Music
+        description: 'Guitar, vocal groups'
+        percent: 
+        icon: 
+      - name: Diving
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        percent: 
+        icon: 
 
 languages:
-  - name: English
+  - name: French
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
+  - name: German
+    percent: 30
+  - name: Spanish
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +175,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello world ! I'm building my website, but still got no idea about what to wwrite here.
