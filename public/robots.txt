@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://localhost:38499/justinesauvage/sitemap.xml
