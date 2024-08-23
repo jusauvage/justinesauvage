@@ -53,7 +53,7 @@ education:
       Supervised by Dabid Baelde (https://people.irisa.fr/David.Baelde/) and Adrien Koutsos (https://adrienkoutsos.fr).
     button:
       text: 'Thesis web page'
-      url: 'https://example.com'
+      url: 'https://theses.fr/s343813'
   - area: Master degree, theoritical computer science
     institution: Ecole Normale Superieure de Lyon
     date_start: 2018-10-01
