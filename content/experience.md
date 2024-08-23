@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2024-08-24
+date: 2024-08-23
 type: landing
 
 design:
@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experiences
+  - block: resume-experience
     content:
       username: admin
     design:
