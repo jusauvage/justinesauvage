@@ -1,6 +1,6 @@
 ---
 title: Teaching
-summary: My courses
+summary: Ressources for the teaching I give, or gave.
 type: landing
 
 cascade:
