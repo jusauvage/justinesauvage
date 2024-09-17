@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathématique Discrète | justinesauvage</title>
+    <link>http://localhost:1313/justinesauvage/tags/mathematique-discrete/</link>
+      <atom:link href="http://localhost:1313/justinesauvage/tags/mathematique-discrete/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mathématique Discrète</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/justinesauvage/media/icon_hu7729264130191091259.png</url>
+      <title>Mathématique Discrète</title>
+      <link>http://localhost:1313/justinesauvage/tags/mathematique-discrete/</link>
+    </image>
+    
+    <item>
+      <title>2023-2024 TD Mathématiques Discrètes</title>
+      <link>http://localhost:1313/justinesauvage/teaching/2023-2024---mathematiques-discrete/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/justinesauvage/teaching/2023-2024---mathematiques-discrete/</guid>
+      <description>&lt;h2 id=&#34;première-interrogation&#34;&gt;Première interrogation&lt;/h2&gt;
+&lt;h2 id=&#34;seconde-interrogation&#34;&gt;Seconde interrogation&lt;/h2&gt;
+&lt;h2 id=&#34;autres&#34;&gt;Autres&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-2023 TD Mathématiques Discrètes</title>
+      <link>http://localhost:1313/justinesauvage/teaching/2022-2023---mathematiques-discrete/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/justinesauvage/teaching/2022-2023---mathematiques-discrete/</guid>
+      <description>&lt;h2 id=&#34;première-interrogation&#34;&gt;Première interrogation&lt;/h2&gt;
+&lt;h2 id=&#34;seconde-interrogation&#34;&gt;Seconde interrogation&lt;/h2&gt;
+&lt;h2 id=&#34;autres&#34;&gt;Autres&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
