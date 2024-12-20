@@ -3,6 +3,10 @@ title: 'Projects'
 date: 2024-05-19
 type: landing
 
+list: never
+publishResources: false
+render: never
+
 design:
   # Section spacing
   spacing: '5rem'
@@ -12,7 +16,7 @@ sections:
   - block: collection
     content:
       title: Projects
-      text: Hello world !
+      text: Hi world
       filters:
         folders:
           - project
