@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching | justinesauvage</title>
-    <link>http://localhost:36579/justinesauvage/teaching/</link>
-      <atom:link href="http://localhost:36579/justinesauvage/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:42567/justinesauvage/teaching/</link>
+      <atom:link href="http://localhost:42567/justinesauvage/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:36579/justinesauvage/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:42567/justinesauvage/media/icon_hu7729264130191091259.png</url>
       <title>Teaching</title>
-      <link>http://localhost:36579/justinesauvage/teaching/</link>
+      <link>http://localhost:42567/justinesauvage/teaching/</link>
     </image>
     
     <item>
       <title>2023-2024 TD Mathématiques Discrètes</title>
-      <link>http://localhost:36579/justinesauvage/teaching/2023-2024---mathematiques-discrete/</link>
+      <link>http://localhost:42567/justinesauvage/teaching/2023-2024---mathematiques-discrete/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36579/justinesauvage/teaching/2023-2024---mathematiques-discrete/</guid>
+      <guid>http://localhost:42567/justinesauvage/teaching/2023-2024---mathematiques-discrete/</guid>
       <description>&lt;h2 id=&#34;première-interrogation&#34;&gt;Première interrogation&lt;/h2&gt;
 &lt;h2 id=&#34;seconde-interrogation&#34;&gt;Seconde interrogation&lt;/h2&gt;
 &lt;h2 id=&#34;autres&#34;&gt;Autres&lt;/h2&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>2022-2023 TD Mathématiques Discrètes</title>
-      <link>http://localhost:36579/justinesauvage/teaching/2022-2023---mathematiques-discrete/</link>
+      <link>http://localhost:42567/justinesauvage/teaching/2022-2023---mathematiques-discrete/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36579/justinesauvage/teaching/2022-2023---mathematiques-discrete/</guid>
+      <guid>http://localhost:42567/justinesauvage/teaching/2022-2023---mathematiques-discrete/</guid>
       <description>&lt;h2 id=&#34;première-interrogation&#34;&gt;Première interrogation&lt;/h2&gt;
 &lt;h2 id=&#34;seconde-interrogation&#34;&gt;Seconde interrogation&lt;/h2&gt;
 &lt;h2 id=&#34;autres&#34;&gt;Autres&lt;/h2&gt;

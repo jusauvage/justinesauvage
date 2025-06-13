@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | justinesauvage</title>
-    <link>http://localhost:36579/justinesauvage/publication/</link>
-      <atom:link href="http://localhost:36579/justinesauvage/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:42567/justinesauvage/publication/</link>
+      <atom:link href="http://localhost:42567/justinesauvage/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:36579/justinesauvage/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:42567/justinesauvage/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>http://localhost:36579/justinesauvage/publication/</link>
+      <link>http://localhost:42567/justinesauvage/publication/</link>
     </image>
     
     <item>
-      <title>Termination of Ethereum&#39;s Smart Contracts</title>
-      <link>http://localhost:36579/justinesauvage/publication/paper-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36579/justinesauvage/publication/paper-2020/</guid>
+      <title>Foundations for Cryptographic Reductions in CCSA Logics</title>
+      <link>http://localhost:42567/justinesauvage/publication/paper-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42567/justinesauvage/publication/paper-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Foundations for Cryptographic Reductions in {CCSA} Logics</title>
-      <link>http://localhost:36579/justinesauvage/publication/paper-2024/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:36579/justinesauvage/publication/paper-2024/</guid>
+      <title>Termination of Ethereum&#39;s Smart Contracts</title>
+      <link>http://localhost:42567/justinesauvage/publication/paper-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:42567/justinesauvage/publication/paper-2020/</guid>
       <description></description>
     </item>
     

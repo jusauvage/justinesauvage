@@ -37,7 +37,7 @@ tags:
   - Security in Distributed Systems
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 
 

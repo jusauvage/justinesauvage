@@ -38,20 +38,11 @@ sections:
         I'm a research scientist. Also, still have to find what to put here too.
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       text: ""
       filters:
         folders:
