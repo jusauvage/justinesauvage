@@ -10,10 +10,27 @@ tags:
 ---
 
 
-## Première interrogation
+### Interrogation 1
 
-## Seconde interrogation
+<a href="./interro1.pdf" download> Interro 1 - sujet</a> 
 
-## Autres
 
+<a href="./interro1-correction.pdf" download> Interro 1 - correction</a> 
+
+### Interrogation 2
+
+
+<a href="./interro2.pdf" download> Interro 2 - sujet</a> 
+
+
+<a href="./interro2-correction.pdf" download> Interro 2 - correction</a> 
+
+
+### Interrogation 3
+
+
+
+<a href="./interro3.pdf" download> Interro 3 - sujet</a> 
+
+<a href="./interro3-aide.pdf" download> Interro 3 - aide à la résolution</a> 
 
