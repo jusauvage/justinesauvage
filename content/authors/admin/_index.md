@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'justine.sauvage@free.fr'
+    url: 'mailto:justine.sauvage@free.fr'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/justine-sauvage-a05b35179/
@@ -41,7 +41,7 @@ profiles:
 interests:
   - Formal methods
   - Protocols security
-  - TBD
+  - Proof mechanization
 
 education:
   - area: (ongoing) PhD 
