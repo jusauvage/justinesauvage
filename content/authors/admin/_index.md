@@ -140,4 +140,7 @@ languages:
 
 ## About Me
 
-Hello world ! I'm building my website, but still got no idea about what to write here.
+I am a PhD student in Computer Science at INRIA, within the Prosecco research team. Under the supervision of David Baelde and Adrien Koutsis, my work focuses on the use of formal methods for protocol verification.
+
+
+I like discussing science, always keen to answering questions and open to new ideas and collaborations. Feel free to reach out via email if you’d like to connect!
