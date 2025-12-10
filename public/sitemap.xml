@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/justinesauvage/event/thesis/</loc>
+    <lastmod>2026-01-21T14:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/justinesauvage/event/</loc>
-    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-21T14:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/justinesauvage/event/ccs14/</loc>
-    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/justinesauvage/event/test/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

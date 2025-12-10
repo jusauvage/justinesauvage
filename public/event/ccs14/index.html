@@ -808,7 +808,7 @@
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/justinesauvage/event/thesis/"
     
-  >PhD defence
+  >Games and Logic for the Verification of Cryptographic Protocols
     </a>
               
             </li><li class="flex flex-col open"><a
@@ -819,7 +819,19 @@
   >Foundations for Cryptographic Reductions in CCSA Logics
     </a>
   
-    <ul class="hb-sidebar-mobile-toc"></ul>
+    <ul class="hb-sidebar-mobile-toc"><li>
+              <a
+                href="#abstract"
+                class="hb-docs-link"
+              >Abstract</a>
+            </li>
+          <li>
+              <a
+                href="#slides"
+                class="hb-docs-link"
+              >Slides</a>
+            </li>
+          </ul>
   
               
             </li></ul>
@@ -914,7 +926,13 @@
 
 
 
-  <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul></ul>
+  <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4"><p class="mb-4 font-semibold tracking-tight">On this page</p><ul>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#abstract">Abstract</a>
+      </li>
+      <li class="my-2 scroll-my-6 scroll-py-6">
+        <a class="font-semibold inline-block text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300 w-full break-words" href="#slides">Slides</a>
+      </li></ul>
 
   
   
@@ -1025,8 +1043,10 @@
       
 
       <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        <h1 id="abstract">Abstract</h1>
+        <h2 id="abstract">Abstract</h2>
 <p>The Computationally Complete Symbolic Attacker (CCSA) approach to security protocol verification relies on probabilistic logics to reason about the interaction traces between a protocol and an arbitrary adversary. The proof assistant Sqirrel implements onesuch logic. CCSA logics come with cryptographic axioms whose soundness derives from the security of standard cryptographic games, e.g. PRF, EUF, IND-CCA. Unfortunately, these axioms are complex to design and implement; so far, these tasks are manual, adhoc and error-prone. We solve these issues by providing a formal and systematic method for deriving axioms from cryptographic games. Our method relies on synthesizing an adversary against some cryptographic game, through the notion of bi-deduction. Concretely, we define a rich notion of bi-deduction, justify how to use it to derive cryptographic axioms, provide a proof system for bi-deduction, and an automatic proof-search method which we implemented in Sqirrel.</p>
+<h2 id="slides">Slides</h2>
+<p>Here are the slides: <a href="./ccs24-slides.pdf" download>Slides</a></p>
 
       </div>
 
@@ -1276,7 +1296,7 @@
           <span class="flex flex-col">
             <span
               class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
-            >PhD defence</span>
+            >Games and Logic for the Verification of Cryptographic Protocols</span>
             <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
               
                 Jan 21, 2026
