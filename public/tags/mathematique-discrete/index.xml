@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathématique Discrète | justinesauvage</title>
-    <link>http://localhost:35307/justinesauvage/tags/mathematique-discrete/</link>
-      <atom:link href="http://localhost:35307/justinesauvage/tags/mathematique-discrete/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:40023/justinesauvage/tags/mathematique-discrete/</link>
+      <atom:link href="http://localhost:40023/justinesauvage/tags/mathematique-discrete/index.xml" rel="self" type="application/rss+xml" />
     <description>Mathématique Discrète</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:35307/justinesauvage/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:40023/justinesauvage/media/icon_hu7729264130191091259.png</url>
       <title>Mathématique Discrète</title>
-      <link>http://localhost:35307/justinesauvage/tags/mathematique-discrete/</link>
+      <link>http://localhost:40023/justinesauvage/tags/mathematique-discrete/</link>
     </image>
     
     <item>
       <title>2023-2024 TD Mathématiques Discrètes</title>
-      <link>http://localhost:35307/justinesauvage/teaching/2023-2024---mathematiques-discrete/</link>
+      <link>http://localhost:40023/justinesauvage/teaching/2023-2024---mathematiques-discrete/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35307/justinesauvage/teaching/2023-2024---mathematiques-discrete/</guid>
+      <guid>http://localhost:40023/justinesauvage/teaching/2023-2024---mathematiques-discrete/</guid>
       <description>&lt;h3 id=&#34;interrogation-1&#34;&gt;Interrogation 1&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;./interro1.pdf&#34; download&gt; Interro 1 - sujet&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;./interro1-correction.pdf&#34; download&gt; Interro 1 - correction&lt;/a&gt;&lt;/p&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>2022-2023 TD Mathématiques Discrètes</title>
-      <link>http://localhost:35307/justinesauvage/teaching/2022-2023---mathematiques-discrete/</link>
+      <link>http://localhost:40023/justinesauvage/teaching/2022-2023---mathematiques-discrete/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35307/justinesauvage/teaching/2022-2023---mathematiques-discrete/</guid>
+      <guid>http://localhost:40023/justinesauvage/teaching/2022-2023---mathematiques-discrete/</guid>
       <description>&lt;h3 id=&#34;interrogation-1&#34;&gt;Interrogation 1&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;./interro1.pdf&#34; download&gt; Interro 1 - sujet&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;interrogation-2&#34;&gt;Interrogation 2&lt;/h3&gt;

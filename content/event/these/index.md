@@ -17,11 +17,11 @@ summary: PHD defence presentation
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-01-21'
-date_end: 
+date_end: '2026-01-21'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-01-10'
+publishDate: '2026-01-21'
 
 authors:
   - admin
@@ -59,19 +59,19 @@ slides: ""
 #   Otherwise, set `projects = []`.
 #projects:
 #  - example
-
-show_social : false
-
-button:
-   text: 'Thesis'
-   url: 'https://theses.fr/s343813'
 ---
 
 {{% callout note %}}
 The **Slides** will be available afterward
 {{% /callout %}}
 
-Hello world !
+
+## Manuscript
+
+The manuscript's pdf can be download 
+<a href="https://duckduckgo.com/?q=hugo+supress+socials+footer+Academic+CV+template&t=newext&atb=v348-1&ia=web" download>
+  <button>here</button>
+</a>
 
 
 

@@ -1,1 +1,15 @@
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const shareIds = [
+      'share-link-x',
+      'share-link-facebook',
+      'share-link-email',
+      'share-link-linkedin',
+      'share-link-whatsapp'
+    ];
+    shareIds.forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.remove();
+    });
+  });
+</script>
