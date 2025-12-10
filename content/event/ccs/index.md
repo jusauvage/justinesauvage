@@ -61,10 +61,6 @@ slides: ""
 #  - example
 ---
 
-{{% callout note %}}
-The **Slides** will be available afterward
-{{% /callout %}}
-
 
 # Abstract
 

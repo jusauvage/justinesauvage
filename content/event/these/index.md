@@ -68,10 +68,7 @@ The **Slides** will be available afterward
 
 ## Manuscript
 
-The manuscript's pdf can be download 
-<a href="https://duckduckgo.com/?q=hugo+supress+socials+footer+Academic+CV+template&t=newext&atb=v348-1&ia=web" download>
-  <button>here</button>
-</a>
+The manuscript's pdf can be download here : <a href="./these.pdf" download>Thesis manuscript</a>  
 
 
 
