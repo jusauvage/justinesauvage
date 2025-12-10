@@ -1,0 +1,18 @@
+<ul class="social-icons">
+  {{ range .Params.socials }}
+    <li>
+      <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+        {{- /* Choix de l'icône selon le type */ -}}
+        {{ if eq .icon "github" }}
+          <i class="fab fa-github"></i>
+        {{ else if eq .icon "orcid" }}
+          <i class="fab fa-orcid"></i>
+        {{ else if eq .icon "email" }}
+          <i class="fa fa-envelope"></i>
+        {{ else }}
+          <i class="fa fa-{{ .icon }}"></i>
+        {{ end }}
+      </a>
+    </li>
+  {{ end }}
+</ul>

@@ -37,6 +37,8 @@ profiles:
     url: https://www.linkedin.com/in/justine-sauvage-a05b35179/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0006-2574-2256
+  - icon: brands/github
+    url: https://github.com/jusauvage/
 
 interests:
   - Formal methods
