@@ -66,5 +66,14 @@ The **Slides** will be available afterward
 {{% /callout %}}
 
 
-Hello world
+# Abstract
+
+The Computationally Complete Symbolic Attacker (CCSA) approach to security protocol verification relies on probabilistic logics to reason about the interaction traces between a protocol and an arbitrary adversary. The proof assistant Sqirrel implements onesuch logic. CCSA logics come with cryptographic axioms whose soundness derives from the security of standard cryptographic games, e.g. PRF, EUF, IND-CCA. Unfortunately, these axioms are complex to design and implement; so far, these tasks are manual, adhoc and error-prone. We solve these issues by providing a formal and systematic method for deriving axioms from cryptographic games. Our method relies on synthesizing an adversary against some cryptographic game, through the notion of bi-deduction. Concretely, we define a rich notion of bi-deduction, justify how to use it to derive cryptographic axioms, provide a proof system for bi-deduction, and an automatic proof-search method which we implemented in Sqirrel.
+
+
+
+
+
+
+
 
