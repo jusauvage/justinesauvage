@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ethereum | justinesauvage</title>
-    <link>http://localhost:40023/justinesauvage/tags/ethereum/</link>
-      <atom:link href="http://localhost:40023/justinesauvage/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/justinesauvage/tags/ethereum/</link>
+      <atom:link href="http://localhost:1313/justinesauvage/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
     <description>Ethereum</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:40023/justinesauvage/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/justinesauvage/media/icon_hu7729264130191091259.png</url>
       <title>Ethereum</title>
-      <link>http://localhost:40023/justinesauvage/tags/ethereum/</link>
+      <link>http://localhost:1313/justinesauvage/tags/ethereum/</link>
     </image>
     
     <item>
       <title>Termination of Ethereum&#39;s Smart Contracts</title>
-      <link>http://localhost:40023/justinesauvage/publication/paper-2020/</link>
+      <link>http://localhost:1313/justinesauvage/publication/paper-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40023/justinesauvage/publication/paper-2020/</guid>
+      <guid>http://localhost:1313/justinesauvage/publication/paper-2020/</guid>
       <description></description>
     </item>
     

@@ -2,61 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>justinesauvage</title>
-    <link>http://localhost:40023/justinesauvage/</link>
-      <atom:link href="http://localhost:40023/justinesauvage/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/justinesauvage/</link>
+      <atom:link href="http://localhost:1313/justinesauvage/index.xml" rel="self" type="application/rss+xml" />
     <description>justinesauvage</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:40023/justinesauvage/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/justinesauvage/media/icon_hu7729264130191091259.png</url>
       <title>justinesauvage</title>
-      <link>http://localhost:40023/justinesauvage/</link>
+      <link>http://localhost:1313/justinesauvage/</link>
     </image>
     
     <item>
-      <title>Foundations for Cryptographic Reductions in CCSA Logics</title>
-      <link>http://localhost:40023/justinesauvage/event/ccs/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40023/justinesauvage/event/ccs/</guid>
+      <title>PhD defence</title>
+      <link>http://localhost:1313/justinesauvage/event/thesis/</link>
+      <pubDate>Wed, 21 Jan 2026 14:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/justinesauvage/event/thesis/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
   &lt;span class=&#34;dark:text-neutral-300&#34;&gt;The &lt;strong&gt;Slides&lt;/strong&gt; will be available afterward&lt;/span&gt;
 &lt;/div&gt;
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;h2 id=&#34;manuscript&#34;&gt;Manuscript&lt;/h2&gt;
+&lt;p&gt;The manuscript dan be downloaded here:
+&lt;a href=&#34;./these.pdf&#34; download&gt;Thesis manuscript&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foundations for Cryptographic Reductions in CCSA Logics</title>
+      <link>http://localhost:1313/justinesauvage/event/ccs14/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/justinesauvage/event/ccs14/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;The Computationally Complete Symbolic Attacker (CCSA) approach to security protocol verification relies on probabilistic logics to reason about the interaction traces between a protocol and an arbitrary adversary. The proof assistant Sqirrel implements onesuch logic. CCSA logics come with cryptographic axioms whose soundness derives from the security of standard cryptographic games, e.g. PRF, EUF, IND-CCA. Unfortunately, these axioms are complex to design and implement; so far, these tasks are manual, adhoc and error-prone. We solve these issues by providing a formal and systematic method for deriving axioms from cryptographic games. Our method relies on synthesizing an adversary against some cryptographic game, through the notion of bi-deduction. Concretely, we define a rich notion of bi-deduction, justify how to use it to derive cryptographic axioms, provide a proof system for bi-deduction, and an automatic proof-search method which we implemented in Sqirrel.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:40023/justinesauvage/experience/</link>
+      <link>http://localhost:1313/justinesauvage/experience/</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40023/justinesauvage/experience/</guid>
+      <guid>http://localhost:1313/justinesauvage/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:40023/justinesauvage/projects/</link>
+      <link>http://localhost:1313/justinesauvage/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40023/justinesauvage/projects/</guid>
+      <guid>http://localhost:1313/justinesauvage/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foundations for Cryptographic Reductions in CCSA Logics</title>
-      <link>http://localhost:40023/justinesauvage/publication/paper-2024/</link>
+      <link>http://localhost:1313/justinesauvage/publication/paper-2024/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40023/justinesauvage/publication/paper-2024/</guid>
+      <guid>http://localhost:1313/justinesauvage/publication/paper-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2023-2024 TD Mathématiques Discrètes</title>
-      <link>http://localhost:40023/justinesauvage/teaching/2023-2024---mathematiques-discrete/</link>
+      <link>http://localhost:1313/justinesauvage/teaching/2023-2024---mathematiques-discrete/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40023/justinesauvage/teaching/2023-2024---mathematiques-discrete/</guid>
+      <guid>http://localhost:1313/justinesauvage/teaching/2023-2024---mathematiques-discrete/</guid>
       <description>&lt;h3 id=&#34;interrogation-1&#34;&gt;Interrogation 1&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;./interro1.pdf&#34; download&gt; Interro 1 - sujet&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;./interro1-correction.pdf&#34; download&gt; Interro 1 - correction&lt;/a&gt;&lt;/p&gt;
@@ -71,9 +82,9 @@
     
     <item>
       <title>2022-2023 TD Mathématiques Discrètes</title>
-      <link>http://localhost:40023/justinesauvage/teaching/2022-2023---mathematiques-discrete/</link>
+      <link>http://localhost:1313/justinesauvage/teaching/2022-2023---mathematiques-discrete/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40023/justinesauvage/teaching/2022-2023---mathematiques-discrete/</guid>
+      <guid>http://localhost:1313/justinesauvage/teaching/2022-2023---mathematiques-discrete/</guid>
       <description>&lt;h3 id=&#34;interrogation-1&#34;&gt;Interrogation 1&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;./interro1.pdf&#34; download&gt; Interro 1 - sujet&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;interrogation-2&#34;&gt;Interrogation 2&lt;/h3&gt;
@@ -87,9 +98,9 @@
     
     <item>
       <title>Termination of Ethereum&#39;s Smart Contracts</title>
-      <link>http://localhost:40023/justinesauvage/publication/paper-2020/</link>
+      <link>http://localhost:1313/justinesauvage/publication/paper-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40023/justinesauvage/publication/paper-2020/</guid>
+      <guid>http://localhost:1313/justinesauvage/publication/paper-2020/</guid>
       <description></description>
     </item>
     

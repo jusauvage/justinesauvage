@@ -2,91 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:40023/justinesauvage/event/</loc>
+    <loc>http://localhost:1313/justinesauvage/event/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/event/ccs/</loc>
+    <loc>http://localhost:1313/justinesauvage/event/ccs14/</loc>
     <lastmod>2024-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/experience/</loc>
+    <loc>http://localhost:1313/justinesauvage/event/test/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/justinesauvage/experience/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/projects/</loc>
+    <loc>http://localhost:1313/justinesauvage/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/tags/computational-model/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/computational-model/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/tags/formal-methods/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/formal-methods/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/publication/paper-2024/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication/paper-2024/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/publication_types/paper-conference/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication_types/paper-conference/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/tags/protocols/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/protocols/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/publication_types/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication_types/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/publication/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/tags/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/teaching/2023-2024---mathematiques-discrete/</loc>
+    <loc>http://localhost:1313/justinesauvage/teaching/2023-2024---mathematiques-discrete/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/tags/mathematique-discrete/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/mathematique-discrete/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/teaching/</loc>
+    <loc>http://localhost:1313/justinesauvage/teaching/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/</loc>
+    <loc>http://localhost:1313/justinesauvage/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/teaching/2022-2023---mathematiques-discrete/</loc>
+    <loc>http://localhost:1313/justinesauvage/teaching/2022-2023---mathematiques-discrete/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/tags/ethereum/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/ethereum/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/tags/formal-methods-for-security/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/formal-methods-for-security/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/tags/security-in-distributed-systems/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/security-in-distributed-systems/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/tags/smart-contrats/</loc>
+    <loc>http://localhost:1313/justinesauvage/tags/smart-contrats/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:40023/justinesauvage/publication/paper-2020/</loc>
+    <loc>http://localhost:1313/justinesauvage/publication/paper-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

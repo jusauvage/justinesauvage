@@ -1,28 +1,27 @@
 ---
-title: PHD defence
+title: PhD defence
 
 event: 
-event_url:
+event_url: 
 
-location: INRIA Paris
-address:
+location: Inria Paris
+address: 
   street: 48 Rue Barrault
   city: Paris
   region: 
   postcode: 75013
   country: France
 
-summary: PHD defence presentation
+summary: Presentation of the accepted paper 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-01-21'
-time: '2:00 PM'
-date_end: '2026-01-21'
+date: '2026-01-21T14:00:00Z'
+#date_end: '2026-01-21'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-01-21'
+publishDate: '2024-01-10'
 
 authors:
   - admin
@@ -69,10 +68,8 @@ The **Slides** will be available afterward
 
 ## Manuscript
 
-The manuscript's pdf can be download here : <a href="./these.pdf" download>Thesis manuscript</a>  
-
-
-
+The manuscript dan be downloaded here:
+<a href="./these.pdf" download>Thesis manuscript</a>
 
 
 
