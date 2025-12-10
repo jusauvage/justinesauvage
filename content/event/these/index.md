@@ -60,6 +60,8 @@ slides: ""
 #projects:
 #  - example
 
+show_social : false
+
 button:
    text: 'Thesis'
    url: 'https://theses.fr/s343813'
