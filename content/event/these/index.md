@@ -17,6 +17,7 @@ summary: PHD defence presentation
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2026-01-21'
+time: '2:00 PM'
 date_end: '2026-01-21'
 all_day: false
 
