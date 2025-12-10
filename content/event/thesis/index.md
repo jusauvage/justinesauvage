@@ -1,7 +1,7 @@
 ---
-title: PhD defence
+title: Games and Logic for the Verification of Cryptographic Protocols
 
-event: 
+event: Phd defence
 event_url: 
 
 location: Inria Paris
@@ -12,7 +12,7 @@ address:
   postcode: 75013
   country: France
 
-summary: Presentation of the accepted paper 
+summary: PhD defence 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
