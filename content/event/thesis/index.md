@@ -71,6 +71,10 @@ The **Slides** will be available afterward
 The manuscript dan be downloaded here:
 <a href="./these.pdf" download>Thesis manuscript</a>
 
+## video conference link
+
+(Available on the 21 of january)
+
 ## Jury
 
 - Ioana Boureanu *Professor, University of Surrey* (Rapportrice)
