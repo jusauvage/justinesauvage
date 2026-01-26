@@ -61,19 +61,17 @@ slides: ""
 #  - example
 ---
 
-{{% callout note %}}
-The **Slides** will be available afterward
-{{% /callout %}}
-
 
 ## Manuscript
 
 The manuscript dan be downloaded here:
 <a href="./these.pdf" download>Thesis manuscript</a>
 
-## Video conference link
+## Slides
 
-[Visio](https://rendez-vous.renater.fr/sf13c-ssows-zsx3g)
+The manuscript dan be downloaded here:
+<a href="./slides.pdf" download>Slides</a>
+
 
 ## Jury
 
