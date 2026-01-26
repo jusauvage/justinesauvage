@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         I am currently at the intersection of formal methods and cryptographic verification. 
-        I have a strong interest in computer-aided verifications --- studying and developing formal verification frameworks, 
+        I have a strong interest in computer-aided verifications: studying and developing formal verification frameworks, 
         improving existing tools, and applying them to real-world systems. 
         While I am always eager to dive into proving new protocols, I also enjoy tackling theoretical questions about the nature of proofs: (How) Can we automate verification? What is the scope of a given verification framework? And how can we scale these methods to handle more complex systems, new arguments, etc. ?
     design:
