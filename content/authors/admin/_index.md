@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Phd student
+role: Post-doctoral researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Inria Paris
-    url: https://www.inria.fr/fr/centre-inria-de-paris
+  - name: LORIA
+    url: https://www.loria.fr/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,10 +46,10 @@ interests:
   - Proof mechanization
 
 education:
-  - area: (ongoing) PhD 
+  - area: PhD 
     institution: Inria Paris
     date_start: 2022-01-09
-    date_end: 2025-01-09
+    date_end: 2026-02-28
     summary: |
       Thesis on Games and Logic for cryptographic protocols verification.
       Directed by <a href="https://bblanche.gitlabpages.inria.fr/index-eng.html"> Bruno Blanchet </a> .
@@ -67,7 +67,7 @@ work:
     company_url: 'https://www.inria.fr/fr/centre-inria-de-paris'
     company_logo: ''
     date_start: 2022-01-01
-    date_end: ''
+    date_end: 2026-02-28
     summary: |
     
   - position: Interns
@@ -141,8 +141,7 @@ languages:
 
 ## About Me
 
-I am a PhD student in Computer Science at INRIA, within the Prosecco research team,
-Under the supervision of David Baelde and Adrien Koutsos. My work focuses on the use of formal methods for protocol verification.
+I am a post-doctoral researcher in Computer Science at INRIA, within the Pesto research team. My work focuses on the use of formal methods for protocol verification.
 
 
 I like discussing science, always keen to answering questions and open to new ideas and collaborations. Feel free to reach out via email if you’d like to connect!
