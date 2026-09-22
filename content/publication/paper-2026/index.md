@@ -26,6 +26,11 @@ publishDate: '2026-03-26T00:00:00Z'
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
 
+awards:
+  - name: "Distinguished Artifact Awards"
+    level: winner
+    note: '[Top 5 of submissions](https://secartifacts.github.io/usenixsec2026/awards#-distinguished-artifact-awards)'
+
 # Publication name and optional abbreviated publication name.
 publication: In *Usenix 2026 - 35th Usenix security symposium*
 publication_short: In *Usenix'26*
