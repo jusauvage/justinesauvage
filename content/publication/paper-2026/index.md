@@ -29,7 +29,7 @@ publication_types: ['paper-conference']
 award: 
   - name: "Distinguished Artifact Awards"
     #level: winner
-    note: "Top 5 of submissions"
+    note: "Top 5 of artifact submissions"
     url : https://secartifacts.github.io/usenixsec2026/awards#-distinguished-artifact-awards
 
 # Publication name and optional abbreviated publication name.
