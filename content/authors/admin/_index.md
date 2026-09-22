@@ -62,6 +62,14 @@ education:
     summary: |
       
 work:
+  - position: Post-doctoral researcher
+    company_name: Loria
+    company_url: 'https://www.loria.fr/en/'
+    company_logo: ''
+    date_start: 2026-05-01
+    date_end: 
+    summary: |
+
   - position: Phd student
     company_name: Inria Paris
     company_url: 'https://www.inria.fr/fr/centre-inria-de-paris'
