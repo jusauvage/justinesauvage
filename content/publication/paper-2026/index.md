@@ -26,10 +26,11 @@ publishDate: '2026-03-26T00:00:00Z'
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
 
-awards:
+award: 
   - name: "Distinguished Artifact Awards"
-    level: winner
-    note: '[Top 5 of submissions](https://secartifacts.github.io/usenixsec2026/awards#-distinguished-artifact-awards)'
+    #level: winner
+    note: "Top 5 of submissions"
+    url : https://secartifacts.github.io/usenixsec2026/awards#-distinguished-artifact-awards
 
 # Publication name and optional abbreviated publication name.
 publication: In *Usenix 2026 - 35th Usenix security symposium*
@@ -43,9 +44,10 @@ tags:
   - Protocols
   - Proof mechanization
   - Computational model
+  - E-voting
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
